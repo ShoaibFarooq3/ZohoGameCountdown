@@ -1,0 +1,27 @@
+
+  body.light-theme {
+    background-color: #151515;
+  }
+  
+  body.light-theme .example h1 {
+    color: #FFFFFF;
+  }
+  
+  body.light-theme .example p {
+    color: #FFFFFF;
+  }
+  
+  body.light-theme .buttons .button {
+    color: #FFFFFF;
+    border-color: #FFFFFF;
+  }
+  
+  body.light-theme .buttons .button:hover {
+    color: #151515;
+    background-color: #FFFFFF;
+  }
+  
+  
+  .flipdown {
+    margin: auto;
+  }
